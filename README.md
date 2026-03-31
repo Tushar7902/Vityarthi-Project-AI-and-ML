@@ -69,8 +69,7 @@ Then:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone (https://github.com/Tushar7902/Vityarthi-Project-AI-and-ML)
 ```
 
 ---
@@ -135,16 +134,26 @@ After running, you’ll see:
 ## 📂 Project Structure
 
 ```
-project/
+AI-Study-Planner/
 │
-├── chatbot.py          # Main CLI application
-├── model.py            # Model training script
-├── generate_data.py    # Dataset creation
-├── data.csv            # Dataset
-├── model.pkl           # Trained model
-├── le_*.pkl            # Encoders
-├── history.json        # User history
-└── README.md
+├── screenshots/            # Images of output (for README/demo)
+│
+├── README.md              # Project documentation
+├── chatbot.py             # Main CLI-based application
+├── model.py               # Machine learning model training script
+├── generate_data.py       # Script to generate dataset
+├── data.csv               # Dataset used for training
+│
+├── model.pkl              # Trained ML model
+├── le_backlog.pkl         # Encoder for backlog
+├── le_difficulty.pkl      # Encoder for difficulty
+├── le_mood.pkl            # Encoder for mood
+├── le_subject.pkl         # Encoder for subject
+│
+├── history.json           # Stores user session history
+├── requirements.txt       # Required dependencies
+│
+└── (other files if added)
 ```
 
 ---
