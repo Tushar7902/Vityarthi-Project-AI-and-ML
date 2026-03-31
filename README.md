@@ -90,7 +90,7 @@ python chatbot.py
 
 ---
 
-## 🖥️ How to Use
+## How to Use
 
 After running, you’ll see:
 
@@ -110,7 +110,7 @@ After running, you’ll see:
 * Mood → tired
 * Stream → science
 
-👉 Output:
+ Output:
 
 * Suggested subject
 * Full timetable
@@ -119,7 +119,7 @@ After running, you’ll see:
 
 ---
 
-## ✨ Features
+##  Features
 
 * ✅ AI-based subject recommendation
 * ✅ Stream-based filtering
@@ -158,10 +158,10 @@ AI-Study-Planner/
 
 ---
 
-## 📊 Sample Output
+##  Sample Output
 
 ```
-👉 Final Subject: Chemistry
+Final Subject: Chemistry
 
 Hour 1 → Chemistry
 Hour 2 → Math (10 min break)
@@ -172,7 +172,7 @@ Hour 4 → Physics
 
 ---
 
-## 🧩 Challenges I Faced
+##  Challenges I Faced
 
 * Making dataset realistic
 * Handling user inputs correctly
@@ -181,7 +181,7 @@ Hour 4 → Physics
 
 ---
 
-## 📈 What I Learned
+##  What I Learned
 
 * How ML works in real projects
 * Data preprocessing (Label Encoding)
@@ -191,7 +191,7 @@ Hour 4 → Physics
 
 ---
 
-## 🚧 Limitations
+##  Limitations
 
 * Dataset is synthetic (not real user data)
 * Limited subjects
@@ -199,7 +199,7 @@ Hour 4 → Physics
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Add GUI or web version
 * Use real student data
@@ -208,7 +208,7 @@ Hour 4 → Physics
 
 ---
 
-## 🙌 Final Note
+##  Final Note
 
 This project is not just about machine learning…
 It’s about solving a real student problem in a simple way.
@@ -218,26 +218,10 @@ this project tries to make that easier.
 
 ---
 
-## ⭐ If You Like It
 
-Feel free to star ⭐ the repo or improve it further!
 
----
+## 👤 Author
 
-# 🔥 DONE
+**Author:** Tushar Chauhan 
+**Reg No:** 25BAI11335
 
-This README:
-✅ Sounds human (storytelling style)
-✅ Easy to understand
-✅ Covers all evaluation points
-✅ Perfect for VIT submission
-
----
-
-If you want next level (to stand out from others), I can:
-
-* Make your GitHub look 🔥 professional
-* Add badges, screenshots, formatting
-* Prepare viva answers
-
-Just tell me 👍
