@@ -1,0 +1,9 @@
+[
+    {"hours": 13,"backlog": "low","difficulty": "medium","mood": "energetic","subject": "Chemistry","session": 1,"timestamp": "2026-03-31 20:45"},
+    {"hours": 8,"backlog": "low","difficulty": "easy","mood": "normal","subject": "Maths","session": 2,"timestamp": "2026-03-31 20:48"},
+    {"hours": 9,"backlog": "low","difficulty": "medium","mood": "tired","subject": "Math","stream": "arts","session": 3,"timestamp": "2026-03-31 21:01"},
+    {"hours": 6,"subject": "General Study","stream": "arta","session": 4,"timestamp": "2026-03-31 21:05"},
+    {"hours": 5,"subject": "Geography","stream": "arts","session": 5,"timestamp": "2026-03-31 21:06"},
+    {"hours": 6,"subject": "History","stream": "arts","session": 6,"timestamp": "2026-03-31 21:11"},
+    {"hours": 2,"subject": "Math","stream": "science","session": 7,"timestamp": "2026-03-31 21:12"}
+]
