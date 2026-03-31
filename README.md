@@ -1,21 +1,8 @@
-Got you — I’ll make a **clean, humanized README.md** that feels natural (not AI robotic), includes a bit of storytelling, and is perfect for GitHub + VIT evaluation.
-
-Just copy-paste this 👇
-
----
-
 # 📚 AI Smart Study Planner (CLI Project)
 
 ---
 
 ## 🧠 About This Project
-
-During my preparation time, I often faced a simple but frustrating problem —
-*"I have time… but what should I study right now?"*
-
-Some days I had backlog, some days I was tired, and sometimes I just didn’t feel like studying hard subjects. I realized that planning itself was taking a lot of time and energy.
-
-So instead of overthinking every day, I decided to build something that can **think for me**.
 
 This project is a **Command Line based AI Study Planner** that suggests:
 
@@ -28,7 +15,7 @@ It uses **Machine Learning** to make decisions based on your current situation.
 
 ---
 
-## 🎯 What This Project Does
+## What This Project Does
 
 You simply enter:
 
@@ -47,7 +34,7 @@ And the system will:
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 * Python
 * Pandas
@@ -58,11 +45,11 @@ And the system will:
 
 ---
 
-## 🏗️ How It Works (Simple Explanation)
+##  How It Works 
 
 Instead of hardcoding everything, I trained a **Machine Learning model**.
 
-👉 The model learns patterns like:
+ The model learns patterns like:
 
 * If backlog is high → focus serious subjects
 * If mood is tired → keep it light
@@ -77,7 +64,7 @@ Then:
 
 ---
 
-## 💻 How to Run This Project
+##  How to Run This Project
 
 ### 1. Clone the Repository
 
