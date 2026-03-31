@@ -223,5 +223,6 @@ this project tries to make that easier.
 ## 👤 Author
 
 **Author:** Tushar Chauhan 
+
 **Reg No:** 25BAI11335
 
